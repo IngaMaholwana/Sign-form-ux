@@ -1,0 +1,1 @@
+This project has intermediate form validation practices in Html and Css to help guide users in the right direction when filing out the client side information before going and interacting with the server side.
